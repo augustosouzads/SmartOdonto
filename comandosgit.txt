@@ -1,4 +1,0 @@
-git commit -am "texto" -> ja adiciona a alteração ou criação do arquivo ao container e ja o "comita"
-(identifica e alteração adicionando a ao repositóriio)ao mesmo tempo  
-opre
-hghgfjhfjgf
